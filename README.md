@@ -14,7 +14,7 @@ Curso GIT - Code Education
     git push -u origin master
 ```
 
-Depois editei o README.md, e utilizando o markdown, ajustei o readme.
+Para concluir, editei o README.md e utilizando o markdown, ajustei o readme.
 
 
 
